@@ -1,0 +1,23 @@
+{
+  "name": "Final-API-Server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-Mai/Final-API-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-Mai/Final-API-Server/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-Mai/Final-API-Server#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
